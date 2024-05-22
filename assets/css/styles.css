@@ -412,6 +412,13 @@ button{
   transform: translateY(-.5rem);
 }
 
+
+#icon{
+  padding: 50px;
+  font-size:4rem;
+  
+}
+
 /*=============== ABOUT ===============*/
 .about__container{
   row-gap: 2rem;
